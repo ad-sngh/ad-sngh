@@ -20,4 +20,4 @@ Cloud Computing, Machine Learning, AI Workflows, Software Development, Food, Man
 
 ## Let's Connect
 
-[LinkedIn](https://www.linkedin.com/in/-aditya-singh/)
+[LinkedIn](https://www.linkedin.com/in/-aditya-singh/) | [Website] (https://ad-sngh.github.io/jugaad/learning-path/)
